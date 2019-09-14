@@ -2,4 +2,7 @@ name: prompter_bearcola
 version: 0.0.1
 description: Library to create CLI wizards
 author: BearCola <sangin84@gmail.com>
-homepage:
+homepage: https://github.com/BearCola/flutter_commandline
+
+environment:
+  sdk: '<3.0.0'
