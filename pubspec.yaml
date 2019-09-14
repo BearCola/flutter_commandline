@@ -1,0 +1,5 @@
+name: prompter_bearcola
+version: 0.0.1
+description: Library to create CLI wizards
+author: BearCola <sangin84@gmail.com>
+homepage:
